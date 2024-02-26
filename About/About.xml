@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>OreMining50Mod [StationeersMods]</Name>
+  <Author>Evgeniy A. Cymbalyuk</Author>
+  <Version>0.2.3773.18265.1</Version>
+  <Description>[h1]SlowerDehydrationMod[/h1]
+    [b]WARNING:[/b] This is a StationeersMods Plugin Mod. It requires Bepinex to be installed with the StationeersMods plugin.
+    See: https://github.com/jixxed/StationeersMods
+
+    Don't waste your time on mining.
+    All minable chunks are 50g.
+
+    You can find source code on GitHub: https://github.com/greendwin/OreMining50Mod
+</Description>
+  <InGameDescription>
+    <![CDATA[<size="30"><color=#ffa500> OreMining50Mod </color></size>
+<b>WARNING:</b> <color=#ff0000>This is a StationeersMods Plugin Mod. It requires Bepinex to be installed with the StationeersMods plugin.</color>
+See: https://github.com/jixxed/StationeersMods
+
+Don't waste your time on mining.
+All minable chunks are 50g.
+
+You can find source code on GitHub: https://github.com/greendwin/OreMining50Mod
+]]>
+  </InGameDescription>
+  <Tags />
+</ModMetadata>
